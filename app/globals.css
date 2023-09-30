@@ -98,30 +98,31 @@ button:hover{
 @media only screen and (max-width: 600px) {
 
   #main {
-    width: 100vw;
-    position: relative;
-    background-color: rgb(114, 114, 114);
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    padding: 30px 18px;
-}
-  .mybtn {
-    padding-right: 1rem!important;
-    padding-left: 1rem!important;
-  }
-  .button-2{
-    padding: 15px 20px;
-  }
-  .button-1{
-    padding: 15px 20px;
-  }
-  .image {
-    height: 240px;
-  }
-  .pagechanges {
-    padding: 0 5px;
-    justify-content: space-between;
-  }
+      width: 100vw;
+      position: relative;
+      background-color: rgb(114, 114, 114);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      padding: 30px 18px;
+      }
+      .mybtn {
+        padding-right: 1rem!important;
+        padding-left: 1rem!important;
+      }
+      .button-2{
+        padding: 15px 20px;
+      }
+      .button-1{
+        padding: 15px 20px;
+      }
+      .pagechanges {
+        padding: 0 5px;
+        justify-content: space-between;
+      }
+
+      .card{
+        height: 240px;
+      }
 }
